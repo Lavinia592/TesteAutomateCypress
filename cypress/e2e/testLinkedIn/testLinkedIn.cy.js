@@ -11,10 +11,10 @@ describe('Site LinkedIn.com', () => {
     cy.get('.nav__button-secondary').click();
 
     //types username
-    cy.get('#username').type('just_melavy@yahoo.com');
+    cy.get('#username').type('******');
 
     //types password
-    cy.get('#password').type('cypresstesting2024');
+    cy.get('#password').type('*****');
 
     //clicks sign in button to enter account
     cy.get('.btn__primary--large').click();
