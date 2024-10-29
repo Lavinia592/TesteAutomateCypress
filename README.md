@@ -1,5 +1,3 @@
-## Cypress Automation Tests
-
 ** This folder contains automated end-to-end tests for different projects, written in Cypress. These tests cover core user flows, ensuring a smooth and reliable experience across major features.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Key Tests
@@ -9,8 +7,8 @@
 --------------------------------------------------------------------------------------------------------
 ## Setup and Run Tests
 
-1. Install Dependencies: **npm install**
-2. Run Cypress: **npx cypress open** (for interactive mode) or **npx cypress run** (for headless mode)
+1. Install Dependencies: *npm install*
+2. Run Cypress: *npx cypress open* (for interactive mode) or *npx cypress run* (for headless mode)
 --------------------------------------------------------------------------------------------------------
 
 ## Folder Structure
