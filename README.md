@@ -16,6 +16,6 @@ This folder contains automated end-to-end tests for different projects, written 
 --------------------------------------------------------------------------------------------------------
 
 ## Folder Structure
-*cypress/e2e: Projects.
-*cypress/screenshots: Screenshots prom projects.
-*cypress/support: Custom commands and reusable functions.
+* cypress/e2e: Projects.
+* cypress/screenshots: Screenshots prom projects.
+* cypress/support: Custom commands and reusable functions.
