@@ -1,6 +1,6 @@
-## Cypress 
+## Cypress Automation Tests
 
-## This folder contains automated end-to-end tests for different projects, written in Cypress. These tests cover core user flows, ensuring a smooth and reliable experience across major features.
+# This folder contains automated end-to-end tests for different projects, written in Cypress. These tests cover core user flows, ensuring a smooth and reliable experience across major features.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Key Tests
 
